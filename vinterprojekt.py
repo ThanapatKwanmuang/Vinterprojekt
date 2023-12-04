@@ -1,5 +1,3 @@
-import random
-
 class Fighter:
     Strength = 50
     Dexterity = 30
